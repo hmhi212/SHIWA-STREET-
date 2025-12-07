@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hmhi212.github.io/SHIWA-STREET-/sitemap.xml
